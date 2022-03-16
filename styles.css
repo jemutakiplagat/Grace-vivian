@@ -34,7 +34,7 @@ body {
 
 .tr-title p {
     color: rgb(41, 40, 40);
-    line-height: 1px;
+    line-height: 0.5px;
     margin-top: 0px;
     font-size: 1rem;
 }
